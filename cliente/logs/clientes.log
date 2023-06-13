@@ -1,0 +1,36 @@
+{"level":"info","message":"[POST] /pedidoCliente"}
+{"level":"error","message":"Input] {\"pedidoId\":\"uyzehsfhd\"}  [Output]Pedido no encontrado. ID: uyzehsfhd"}
+{"level":"info","message":"[POST] /pedidoCliente"}
+{"level":"error","message":"Input] {\"pedidoId\":\"uyzehsfhd\"}  [Output]Pedido no encontrado. ID: uyzehsfhd"}
+{"level":"info","message":"[POST] /pedidoCliente"}
+{"level":"error","message":"Input] {\"pedidoId\":\"uyzehsfhd\"}  [Output]Pedido no encontrado. ID: uyzehsfhd"}
+{"level":"info","message":"[POST] /pedidoCliente"}
+{"level":"error","message":"Input] {\"pedidoId\":\"uyzehsfhd\"}  [Output]Pedido no encontrado. ID: uyzehsfhd"}
+{"level":"info","message":"[POST] /pedidoCliente"}
+{"level":"error","message":"Input] {\"pedidoId\":\"uyzehsfhd\"}  [Output]Pedido no encontrado. ID: uyzehsfhd"}
+{"level":"info","message":"[POST] /pedidoCliente"}
+{"level":"error","message":"Input] {\"pedidoId\":\"uyzehsfhd\"}  [Output]Pedido no encontrado. ID: uyzehsfhd"}
+{"level":"info","message":"[POST] /pedidoCliente"}
+{"level":"error","message":"Input] {\"pedidoId\":\"uyzehsfhd\"}  [Output]Pedido no encontrado. ID: uyzehsfhd"}
+{"level":"info","message":"[POST] /pedidoCliente"}
+{"level":"error","message":"Input] {\"pedidoId\":\"uyzehsfhd\"}  [Output]Pedido no encontrado. ID: uyzehsfhd"}
+{"level":"info","message":"[POST] /pedidoCliente"}
+{"level":"error","message":"Input] {\"pedidoId\":\"uyzehsfhd\"}  [Output]Pedido no encontrado. ID: uyzehsfhd"}
+{"level":"info","message":"[POST] /pedidoCliente"}
+{"level":"error","message":"Input] {\"pedidoId\":\"uyzehsfhd\"}  [Output]Pedido no encontrado. ID: uyzehsfhd"}
+{"level":"info","message":"[POST] /pedido"}
+{"level":"info","message":"[Input] {\"data\":{\"nombre\":\"John Doe\",\"direccion\":\"Calle Principal 123\",\"telefono\":\"123456789\",\"items\":[{\"nombre\":\"Pizza Margarita\",\"cantidad\":2},{\"nombre\":\"Hamburguesa\",\"cantidad\":1}]}}  [Output]Pedido solicitado por cliente. ID: rfsd96fap Estado: pendiente"}
+{"level":"info","message":"[POST] /pedidoCliente"}
+{"level":"info","message":"Input] {\"pedidoId\":\"rfsd96fap\"}  [Output] Estado del pedido actualizado. ID: rfsd96fap, Estado: pendiente"}
+{"level":"info","message":"[POST] /pedidoCliente"}
+{"level":"info","message":"Input] {\"pedidoId\":\"rfsd96fap\"}  [Output] Estado del pedido actualizado. ID: rfsd96fap, Estado: pendiente"}
+{"level":"info","message":"[POST] /pedidoCliente"}
+{"level":"error","message":"Input] {\"pedidoId\":\"rfsd96fap1\"}  [Output]Pedido no encontrado. ID: rfsd96fap1"}
+{"level":"info","message":"[POST] /pedidoRepartidor"}
+{"level":"error","message":"[Input] {\"pedidoId\":\"rfsd96fap1\"} Pedido no encontrado. ID: rfsd96fap1"}
+{"level":"info","message":"[POST] /pedido"}
+{"level":"info","message":"[Input] {\"data\":{\"nombre\":\"John Doe\",\"direccion\":\"Calle Principal 123\",\"telefono\":\"123456789\",\"items\":[{\"nombre\":\"Pizza Margarita\",\"cantidad\":2},{\"nombre\":\"Hamburguesa\",\"cantidad\":1}]}}  [Output]Pedido solicitado por cliente. ID: csmxniq1t Estado: pendiente"}
+{"level":"info","message":"[POST] /pedidoCliente"}
+{"level":"info","message":"Input] {\"pedidoId\":\"csmxniq1t\"}  [Output] Estado del pedido actualizado. ID: csmxniq1t, Estado: pendiente"}
+{"level":"info","message":"[POST] /pedidoRepartidor"}
+{"level":"info","message":"Input] {\"pedidoId\":\"csmxniq1t\"}  [Output] Estado del pedido actualizado. ID: csmxniq1t, Estado: Pedido Listo"}
